@@ -23,7 +23,7 @@
     <dependency>
       <groupId>com.boycottpro</groupId>
       <artifactId>boycottpro-common-models</artifactId>
-      <version>1.0.0</version>
+      <version>LATEST</version>
     </dependency>
     <dependency>
       <groupId>software.amazon.awssdk</groupId>
@@ -75,7 +75,7 @@
     <dependency>
       <groupId>com.boycottpro</groupId>
       <artifactId>boycottpro-common-models</artifactId>
-      <version>1.0.0</version>
+      <version>LATEST</version>
     </dependency>
   </dependencies>
   <repositories>
